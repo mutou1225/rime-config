@@ -12,11 +12,6 @@
 * 速度快、开源、保护隐私、自定义强
 
 
-### [出售英国、美国、新西兰实体 SIM 卡、GV、Gmail、Apple ID、礼品卡](https://github.com/ssnhd/sim)
-
-[![](https://i.imgur.com/vFuRggb.jpg)](https://github.com/ssnhd/sim)
-
-
 ## 安装
 
 下载 <a href="https://rime.im/" target="_blank">鼠须管</a>，安装后切换到 Rime 输入法，开始使用。\
